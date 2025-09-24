@@ -1,0 +1,16 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore Python-specific files
+__pycache__/
+*.pyc
+
+# Ignore editor and IDE files
+.vscode/
+.env
+venv/
+*.log
+.DS_Store
+
+# Ignore virtual environment folder
+my_env/
